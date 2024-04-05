@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7ff3ebb-3841-4b7e-9b0f-4e9ddcef4877" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design_Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singlenton/DbConn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singlenton/Main.java" afterDir="false" />
+    <list default="true" id="d7ff3ebb-3841-4b7e-9b0f-4e9ddcef4877" name="Changes" comment="&quot;Singleton Design Pattern&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Singlenton/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singlenton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singlenton/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +36,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -70,12 +64,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712339737581</updated>
-      <workItem from="1712339739131" duration="460000" />
+      <workItem from="1712339739131" duration="986000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Singleton Design Pattern&quot;">
+      <option name="closed" value="true" />
+      <created>1712340437441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712340437441</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Singleton Design Pattern&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Singleton Design Pattern&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
